@@ -3,7 +3,7 @@
     "description": "A theme emulating the og green steam look",
     "authors": [
       {
-        "name": "Jenku",
+        "name": "jenku",
         "id": "323205750262595595"
       }
     ],
@@ -34,7 +34,7 @@
             "#B7BBB3"
         ],
         "BACKGROUND_PRIMARY": [ 
-            "#3E4637"
+            "#4C5844"
         ],
         "BACKGROUND_SECONDARY": [ 
             "#4C5844"
