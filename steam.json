@@ -46,7 +46,22 @@
             "#282E22"
         ],
         "BACKGROUND_ACCENT": [ 
-        "#87BBB3"
+            "#87BBB3"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#3e46e7"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#4C5844"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#32392B"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#B7BBB3"
+        ],
+        "CHAT_BACKGROUND": [
+            "#3e46e7"
         ]
     },
     "rawColors": {
