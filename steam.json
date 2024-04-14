@@ -1,0 +1,28 @@
+{
+    "name": "Steam03",
+    "description": "A theme emulating the og green steam look",
+    "authors": [
+      {
+        "name": "Jenku",
+        "id": "323205750262595595"
+      }
+    ],
+    "spec": 2,
+    "semanticColors": {
+      "HEADER_PRIMARY": "#B5A94D",
+      "HEADER_SECONDARY": "#AFB3AB",
+      "TEXT_NORMAL": "#D8DAD7",
+      "TEXT_MUTED": "#B7BBB3",
+      "TEXT_LINK": "#B5A94D",
+      "INTERACTIVE_NORMAL": "#B7BBB3",
+      "INTERACTIVE_ACTIVE": "#B5A94D",
+      "INTERACTIVE_MUTED": "#B7BBB3",
+      "BACKGROUND_PRIMARY": "#3E4637",
+      "BACKGROUND_SECONDARY": "#4C5844",
+      "BACKGROUND_SECONDARY_ALT": "#4C5844",
+      "BACKGROUND_TERTIARY": "#282E22",
+      "BACKGROUND_ACCENT": "#87BBB3"
+    },
+    "rawColors": {
+    }
+  }
