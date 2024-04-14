@@ -58,7 +58,7 @@
             "#32392B"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#B7BBB3"
+            "#8D9783"
         ],
         "CHAT_BACKGROUND": [
             "#3e46e7"
@@ -67,6 +67,9 @@
             "#3e46e7"
         ],
         "BG_BASE_SECONDARY": [
+            "#3e46e7"
+        ],
+        "CARD_PRIMARY_BG": [
             "#3e46e7"
         ]
     },
