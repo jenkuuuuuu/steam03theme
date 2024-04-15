@@ -49,7 +49,7 @@
             "#87BBB3"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#3e4637"
+            "#4C5844"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#4C5844"
@@ -71,6 +71,18 @@
         ],
         "CARD_PRIMARY_BG": [
             "#4C5844"
+        ], 
+        "CHANNEL_ICON": [
+            "#E3E5E2"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#E3E5E2"
+        ],
+        "TEXT_DANGER": [
+            "#B5A94D"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "#282E22"
         ]
     },
     "rawColors": {
