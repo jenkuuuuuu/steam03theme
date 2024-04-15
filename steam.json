@@ -82,9 +82,10 @@
             "#B5A94D"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#282E22"
+            "#4C5844"
         ]
     },
     "rawColors": {
+        "PLUM_20": "#282E22"
     }
   }
