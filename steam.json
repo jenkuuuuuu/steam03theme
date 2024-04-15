@@ -49,7 +49,7 @@
             "#87BBB3"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#3e46e7"
+            "#3e4637"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#4C5844"
@@ -61,16 +61,16 @@
             "#8D9783"
         ],
         "CHAT_BACKGROUND": [
-            "#3e46e7"
+            "#3e4637"
         ],
         "BG_BASE_PRIMARY": [
-            "#3e46e7"
+            "#4C5844"
         ],
         "BG_BASE_SECONDARY": [
-            "#3e46e7"
+            "#4C5844"
         ],
         "CARD_PRIMARY_BG": [
-            "#3e46e7"
+            "#4C5844"
         ]
     },
     "rawColors": {
